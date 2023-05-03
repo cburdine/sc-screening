@@ -1,0 +1,1207 @@
+id,target,prediction
+ Fe4C.poscar, 0, 0
+ Nd2Te4O11.poscar, 0, 0
+ Ti3In4.poscar, 0, 0
+ ZnPd2.poscar, 0, 0
+ Rb(TeMo)3.poscar, 0, 0
+ PtO2.poscar, 0, 0
+ V3Sn.poscar, 0, 1
+ ThNp3.poscar, 0, 1
+ NaEu3.poscar, 0, 0
+ Gd3Pt.poscar, 0, 0
+ V5S8.poscar, 0, 0
+ ErSeBr.poscar, 0, 0
+ Tb3Th.poscar, 0, 0
+ ZnNi3.poscar, 0, 0
+ CaH3.poscar, 0, 0
+NbSn2.poscar, 1, 0
+Y2Ir3Si5.poscar, 1, 1
+SSeTa.poscar, 1, 1
+ MgScPt2.poscar, 0, 0
+ Eu2Cd2As3.poscar, 0, 0
+ Ca4Nb2O9.poscar, 0, 1
+ U2Ti.poscar, 0, 0
+ Hg3Rh.poscar, 0, 0
+ Mg7V.poscar, 0, 0
+ K3Na.poscar, 0, 0
+ Ce2ZnIn.poscar, 0, 0
+ TbH2.poscar, 0, 0
+ Pr2Os3.poscar, 0, 0
+ Sn3Pb.poscar, 0, 0
+ MgNp3.poscar, 0, 0
+ UCl5.poscar, 0, 0
+ Dy3Te3N.poscar, 0, 0
+ La5Tl3.poscar, 0, 0
+ Cu3W.poscar, 0, 0
+ Na3Si.poscar, 0, 0
+ K3V.poscar, 0, 0
+ Ta2VRh.poscar, 0, 0
+SnMo6S8.poscar, 1, 1
+ PH4Br.poscar, 0, 1
+ TaSe6.poscar, 0, 0
+NZr.poscar, 1, 0
+ Ti3Cu4.poscar, 0, 0
+ La2Te5.poscar, 0, 0
+ LuZr3.poscar, 0, 0
+As2Pd5.poscar, 1, 0
+ InPt.poscar, 0, 0
+ SiSn3.poscar, 0, 0
+ Al22Mo5.poscar, 0, 0
+ Al4W.poscar, 0, 0
+In3Sn.poscar, 1, 0
+ NiS.poscar, 0, 0
+ BiN.poscar, 0, 0
+ TbIn3.poscar, 0, 0
+ SiAg2.poscar, 0, 0
+Ge3U5.poscar, 1, 0
+ Mn3Ir.poscar, 0, 0
+LaOCoAs.poscar, 1, 1
+ ErCl3.poscar, 0, 0
+ AgBr.poscar, 0, 0
+ AlH3.poscar, 0, 1
+ Ca2H3Br.poscar, 0, 0
+ Ho12(MnC3)5.poscar, 0, 0
+ H3S.poscar, 0, 1
+ PaPt5.poscar, 0, 0
+ Zr4Pt2N.poscar, 0, 1
+ Cr3Ge.poscar, 0, 0
+ YH2.poscar, 0, 0
+Lu2Ir3Si5.poscar, 1, 1
+ NbB.poscar, 0, 1
+ Mg3W.poscar, 0, 0
+ NCl3.poscar, 0, 0
+ SiMo.poscar, 0, 1
+ PdPb2.poscar, 0, 1
+ Sc3As2.poscar, 0, 0
+ HgGe3.poscar, 0, 0
+ Np5Ge4.poscar, 0, 0
+ AlRh.poscar, 0, 0
+ K7Hg31.poscar, 0, 0
+ Pr(CoAs)2.poscar, 0, 1
+ PuPd3.poscar, 0, 0
+ HoC2.poscar, 0, 0
+La3Se4.poscar, 1, 0
+ Cd3Ir.poscar, 0, 0
+ LuAgSn.poscar, 0, 0
+ UTe.poscar, 0, 0
+ Nb2RePd.poscar, 0, 0
+ Tb6Ga19Pd3.poscar, 0, 0
+ Yb(P2Rh3)2.poscar, 0, 0
+ Dy2ZrS5.poscar, 0, 0
+ Y3Se4.poscar, 0, 1
+ CrHg3.poscar, 0, 0
+ Pr5Si4.poscar, 0, 0
+ EuCrO3.poscar, 0, 0
+ CoNi.poscar, 0, 0
+ Li3Y.poscar, 0, 0
+ Fe2P.poscar, 0, 1
+ As4S5.poscar, 0, 0
+ NdC2.poscar, 0, 0
+ Ho3Ni2.poscar, 0, 0
+ SmFe5.poscar, 0, 0
+ TbFe3.poscar, 0, 0
+ PrAgAu2.poscar, 0, 0
+ Nd3S4.poscar, 0, 0
+ AlMoN3.poscar, 0, 0
+ ZrVMo.poscar, 0, 0
+LaOs4Sb12.poscar, 1, 0
+ ZnCo2.poscar, 0, 0
+ Nd3Au4.poscar, 0, 0
+ C3F2.poscar, 0, 0
+ Mg14NbCu.poscar, 0, 0
+ U2Ru.poscar, 0, 0
+ Ho2Sb5.poscar, 0, 0
+ Te2Pt.poscar, 0, 1
+ MgS.poscar, 0, 0
+ La4Ir.poscar, 0, 0
+ FePd3.poscar, 0, 0
+ Zr6Al16Ir7.poscar, 0, 0
+ Ba2MnS3.poscar, 0, 0
+ Dy4C5.poscar, 0, 0
+ Sm2RuAu.poscar, 0, 0
+ YbDyS3.poscar, 0, 0
+ TcO2.poscar, 0, 0
+ K3Ga.poscar, 0, 0
+ Zr3Zn2.poscar, 0, 0
+K2Mo15Se19.poscar, 1, 1
+ ReSe2.poscar, 0, 0
+ Cu3Ag.poscar, 0, 0
+ Ce7Ir3.poscar, 0, 0
+ Tb4F15.poscar, 0, 0
+Pt3Y7.poscar, 1, 0
+ Pa3W.poscar, 0, 0
+ YZr.poscar, 0, 0
+NbTe4.poscar, 1, 0
+ Ti2SnMo.poscar, 0, 0
+La4Sb3.poscar, 1, 0
+Sr1.5.poscar, 1, 1
+ Mg17Al11Pt.poscar, 0, 0
+ BrCl.poscar, 0, 0
+ ZrPd3.poscar, 0, 0
+ Pa3Sb4.poscar, 0, 0
+ Zr5Ga4.poscar, 0, 1
+ Mg5Ti.poscar, 0, 0
+ Dy2Y2O5.poscar, 0, 0
+C2.poscar, 1, 1
+ Eu3Rh.poscar, 0, 0
+ UFeC2.poscar, 0, 0
+ Tm5Sn3.poscar, 0, 0
+ Dy7Rh3.poscar, 0, 0
+UPt3.poscar, 1, 0
+ VF2.poscar, 0, 0
+ Be5(Al2Fe)2.poscar, 0, 0
+ GeAs3.poscar, 0, 1
+ Ce2Bi.poscar, 0, 1
+ MnBeRu2.poscar, 0, 0
+ InIO5.poscar, 0, 0
+ YbAg.poscar, 0, 0
+ YbSbPt.poscar, 0, 0
+ Gd2ZnIn.poscar, 0, 0
+ K2LiS2.poscar, 0, 0
+ WO4.poscar, 0, 0
+ CrS2.poscar, 0, 0
+ CuC6.poscar, 0, 0
+ GdZnPd.poscar, 0, 0
+ Cd3As2.poscar, 0, 1
+ Ca3Ho.poscar, 0, 0
+ Fe2(WO4)3.poscar, 0, 0
+ Ce5Sn4.poscar, 0, 0
+ InC3.poscar, 0, 0
+ SiSn.poscar, 0, 0
+ YWO3.poscar, 0, 0
+ Sm3Al.poscar, 0, 0
+ GdC2.poscar, 0, 0
+Re24Sc5.poscar, 1, 0
+ YbOs3.poscar, 0, 0
+ Be3Tc.poscar, 0, 0
+ Ta4Cr.poscar, 0, 0
+ Pr3Zr.poscar, 0, 0
+ Hf10CuSn7.poscar, 0, 0
+ Dy5BiPd2.poscar, 0, 0
+ Lu2ZnPt.poscar, 0, 0
+ Np2Se3.poscar, 0, 0
+ InS2.poscar, 0, 0
+ SrIr2.poscar, 0, 1
+ SmMg2H7.poscar, 0, 0
+ NpCd11.poscar, 0, 0
+ Mn5O8.poscar, 0, 0
+ Hf4Fe4Ge7.poscar, 0, 0
+ NbPd.poscar, 0, 0
+ Ge(PbS2)2.poscar, 0, 0
+ KLiMg14.poscar, 0, 0
+Er2Fe3Si5.poscar, 1, 0
+ TbAgAs2.poscar, 0, 0
+ LiMg2.poscar, 0, 0
+ Tb14Ag51.poscar, 0, 0
+ InPO6.poscar, 0, 0
+ Yb5Sn3.poscar, 0, 0
+ NaNi3.poscar, 0, 0
+ RbSbCl6.poscar, 0, 0
+ K3Sm.poscar, 0, 0
+ Ca3Mg.poscar, 0, 0
+PdZr2.poscar, 1, 0
+ Cs2HfBr6.poscar, 0, 0
+ V6Ga7.poscar, 0, 0
+ NaMnN.poscar, 0, 0
+YPd2P2.poscar, 1, 1
+ K14W6N17.poscar, 0, 0
+ Hg3Pb.poscar, 0, 0
+ Mn4Cu.poscar, 0, 0
+ CdCl2.poscar, 0, 0
+ PdPt3.poscar, 0, 0
+ Sc7BCl12.poscar, 0, 0
+ Sr9ThCl22.poscar, 0, 0
+ PuPt.poscar, 0, 0
+ Y3Ge.poscar, 0, 0
+ Cs3Bi.poscar, 0, 0
+ CsAg7S4.poscar, 0, 0
+ Zr2TcPt.poscar, 0, 0
+ Lu4CdPd.poscar, 0, 0
+ Ca2AsAu.poscar, 0, 0
+ CdAs2.poscar, 0, 0
+ Cu9Se5.poscar, 0, 0
+ EuO.poscar, 0, 0
+ Ba(As3Ru)4.poscar, 0, 1
+ YbPu3.poscar, 0, 0
+ TiAg.poscar, 0, 0
+ TcGe2Rh.poscar, 0, 0
+ ZrW2.poscar, 0, 1
+Ce.poscar, 1, 1
+ Mn10CuGe5.poscar, 0, 0
+ LaC.poscar, 0, 0
+ ReAgO4.poscar, 0, 0
+ SnRh2Au.poscar, 0, 0
+ Ga3Ni5.poscar, 0, 0
+ Yb2Ag7.poscar, 0, 0
+ ZnN.poscar, 0, 1
+ PuOs2.poscar, 0, 0
+ Fe3O4.poscar, 0, 0
+ Zr9Ni11.poscar, 0, 0
+ TbCd3.poscar, 0, 0
+CrO2.poscar, 1, 0
+ DyTiGe.poscar, 0, 0
+ Sr(PrS2)2.poscar, 0, 0
+ ThIr2.poscar, 0, 1
+ Mg13Al16.poscar, 0, 0
+Ru.poscar, 1, 1
+ Ti7Cl16.poscar, 0, 0
+ Al23V4.poscar, 0, 0
+ YbLuB24.poscar, 0, 1
+ Na3Ru.poscar, 0, 0
+AlMo3.poscar, 1, 0
+ Si5Pt6.poscar, 0, 0
+ Ge2As2O7.poscar, 0, 0
+ Pr2Al.poscar, 0, 0
+ Al12Ru.poscar, 0, 0
+ HoF3.poscar, 0, 0
+ Ba(SiIr)2.poscar, 0, 1
+ CsH3.poscar, 0, 0
+LaPd2Al3.poscar, 1, 0
+BaAlSi.poscar, 1, 1
+ NiAs2.poscar, 0, 0
+Ni.poscar, 1, 1
+ Nb12I21Br.poscar, 0, 0
+ Ho3Th.poscar, 0, 0
+ KNaS.poscar, 0, 0
+ TcBr4.poscar, 0, 0
+ BeInBi.poscar, 0, 0
+ P4Os.poscar, 0, 0
+Al3Th.poscar, 1, 0
+V2Zr.poscar, 1, 1
+ RbF2.poscar, 0, 0
+ Al13Co4.poscar, 0, 0
+ SmC2.poscar, 0, 0
+ LaPu3.poscar, 0, 0
+B6La.poscar, 1, 0
+ TmV2O2.poscar, 0, 0
+ Nd2Co.poscar, 0, 0
+TlLaSrCuO5.poscar, 1, 1
+ ErHCl.poscar, 0, 0
+ NbAu4.poscar, 0, 0
+ GdRu2.poscar, 0, 0
+ DyMg2Sc.poscar, 0, 0
+ Xe(OF)2.poscar, 0, 0
+ Sr2AgPb.poscar, 0, 0
+ Pt3O4.poscar, 0, 0
+ Sm13Zn58.poscar, 0, 0
+ GdTe.poscar, 0, 0
+ TlBr3.poscar, 0, 0
+ FeAgTe2.poscar, 0, 0
+ Nd3Mg.poscar, 0, 0
+ Ho2Pb2O7.poscar, 0, 0
+HgIn.poscar, 1, 0
+ GdPO4.poscar, 0, 0
+ Zr3S2.poscar, 0, 0
+ NaMg6Mo.poscar, 0, 0
+ TiIr.poscar, 0, 0
+ Nb2Pb3N4.poscar, 0, 0
+ La4P9Rh8.poscar, 0, 1
+GdNi2B2C.poscar, 1, 1
+ MgSnRh2.poscar, 0, 0
+ Bi3As.poscar, 0, 0
+ TaTi.poscar, 0, 0
+ LuSn2.poscar, 0, 0
+Zr2Ru3Si4.poscar, 1, 1
+ EuPb3.poscar, 0, 0
+ Nb3Si.poscar, 0, 1
+Bi3Mo.poscar, 1, 0
+ K4Sn9.poscar, 0, 0
+ PuTlO3.poscar, 0, 0
+ Pr2Te5.poscar, 0, 0
+ CeScO3.poscar, 0, 1
+ MnCr.poscar, 0, 0
+ TmGa.poscar, 0, 0
+ Ce2TeO2.poscar, 0, 0
+ La3Si3Cl2.poscar, 0, 0
+La3Pd4Si4.poscar, 1, 1
+ Tm(TiGa2)2.poscar, 0, 0
+ WF5.poscar, 0, 0
+ Rb2S3.poscar, 0, 0
+ YbEuPd2.poscar, 0, 0
+ SrCeHg2.poscar, 0, 0
+ AlCo.poscar, 0, 0
+ Cu6AuN2.poscar, 0, 0
+ BiB6.poscar, 0, 0
+ NaMg3.poscar, 0, 0
+NbN.poscar, 1, 1
+ Zr3N.poscar, 0, 0
+ Si2W.poscar, 0, 1
+ H2Se.poscar, 0, 0
+ Be46Ir7.poscar, 0, 0
+ Fe4Si.poscar, 0, 0
+ Ba(YbS2)2.poscar, 0, 0
+ EuTl2.poscar, 0, 0
+ Ba(NbN2)2.poscar, 0, 0
+ DyScGe.poscar, 0, 0
+ Dy3S4.poscar, 0, 0
+ Al3(MoSe2)4.poscar, 0, 1
+ Ba6Co25S27.poscar, 0, 0
+TmBa2Cu3O7.poscar, 1, 1
+Sc5Co4Si10.poscar, 1, 1
+BaSi2.poscar, 1, 0
+ Zr3Cd2.poscar, 0, 0
+ Ba(SmSe2)2.poscar, 0, 0
+ BaC20.poscar, 0, 1
+Pt2Sr.poscar, 1, 0
+ ClF5.poscar, 0, 0
+ InCl.poscar, 0, 0
+ ScBe13.poscar, 0, 0
+K88.poscar, 1, 1
+ BaNa.poscar, 0, 0
+ KNiCl3.poscar, 0, 0
+ CsRbI2.poscar, 0, 0
+ TmZr.poscar, 0, 0
+Be5Pt.poscar, 1, 0
+ ZrTlO3.poscar, 0, 0
+ Na3Ag.poscar, 0, 0
+ Na2Zn3S4.poscar, 0, 0
+ Ir4Os.poscar, 0, 0
+ ScSiRu.poscar, 0, 1
+ RhS2.poscar, 0, 0
+ TaAlOs2.poscar, 0, 0
+ Tc3N.poscar, 0, 0
+ MnRu2W.poscar, 0, 0
+Th2NiC2.poscar, 1, 1
+ TiW.poscar, 0, 0
+ NaTa3.poscar, 0, 0
+ YbPrZn2.poscar, 0, 0
+ KSb.poscar, 0, 0
+ SrAu5.poscar, 0, 1
+ Rb9Fe2Se7.poscar, 0, 0
+ PuB2.poscar, 0, 0
+ TiFe.poscar, 0, 0
+ Mg(ScS2)2.poscar, 0, 0
+ ZrVCo.poscar, 0, 0
+ CoAsS.poscar, 0, 0
+ Al3Ru2.poscar, 0, 0
+ Nd3SbO7.poscar, 0, 0
+ Mg3Tc.poscar, 0, 0
+ Al(CoSi)2.poscar, 0, 0
+Re3W.poscar, 1, 0
+ PrIr2.poscar, 0, 0
+ Mn9O13.poscar, 0, 0
+ Nb3S4.poscar, 0, 1
+ZrNi2Ga.poscar, 1, 1
+LaOs2.poscar, 1, 0
+ RhPb2.poscar, 0, 1
+ Sm2Mg.poscar, 0, 0
+ KC10.poscar, 0, 1
+ Ti2Cr3O12.poscar, 0, 0
+ RbO3.poscar, 0, 0
+ Eu3Mo.poscar, 0, 0
+ RbPtO3.poscar, 0, 0
+ Cr7Te8.poscar, 0, 0
+ Gd2Te3.poscar, 0, 0
+ UCoSe3.poscar, 0, 0
+ V6C5.poscar, 0, 0
+ NaInO3.poscar, 0, 0
+ ZrS3.poscar, 0, 0
+ Nd3Pa.poscar, 0, 0
+ Zr5Sb3.poscar, 0, 0
+ Mn2SnW.poscar, 0, 0
+ NdNpO3.poscar, 0, 0
+ Al7Te10.poscar, 0, 0
+GaHf2.poscar, 1, 0
+ WNO.poscar, 0, 0
+ GdNi.poscar, 0, 0
+ TlAsPt5.poscar, 0, 0
+ K6Sn25.poscar, 0, 0
+ Y5Ru2.poscar, 0, 0
+ FeS2.poscar, 0, 0
+BiNa.poscar, 1, 1
+ Sr3Mg.poscar, 0, 0
+ Sn3B.poscar, 0, 0
+SiTh.poscar, 1, 0
+ Sm2PdRh.poscar, 0, 0
+ MnHg.poscar, 0, 0
+ LiAl.poscar, 0, 0
+ CoNi3.poscar, 0, 0
+ Na2C.poscar, 0, 0
+NTh.poscar, 1, 0
+ Mg16Al13.poscar, 0, 0
+BaRh2P2.poscar, 1, 0
+ Th2Zn.poscar, 0, 0
+AgIn5Se8.poscar, 1, 0
+ Ti2MoRh.poscar, 0, 0
+ RuRh3.poscar, 0, 0
+ ZnSb.poscar, 0, 0
+ FePd.poscar, 0, 1
+ Mg3Ga.poscar, 0, 0
+ Fe2B7.poscar, 0, 0
+ CoBr3N5.poscar, 0, 0
+ YLuHg2.poscar, 0, 0
+ Rb3Ca.poscar, 0, 0
+ AlV6Sb.poscar, 0, 1
+ SiSe2.poscar, 0, 0
+ EuIn3.poscar, 0, 0
+ Yb(FeSb3)4.poscar, 0, 0
+PbMo6S8.poscar, 1, 1
+ Ba(CuSe)2.poscar, 0, 0
+ Eu2As3.poscar, 0, 0
+ Rb3Ti3Te11.poscar, 0, 0
+ KCl.poscar, 0, 0
+ EuSn.poscar, 0, 0
+ Cs(FeSb)2.poscar, 0, 0
+AuGa.poscar, 1, 0
+ NaSe2.poscar, 0, 0
+ GdB6.poscar, 0, 1
+ In2Ir.poscar, 0, 1
+ YbCd3.poscar, 0, 0
+ MnAl.poscar, 0, 0
+ CrMo2N3.poscar, 0, 0
+ CaB4.poscar, 0, 1
+LaPtBi.poscar, 1, 1
+LaPt2B2C.poscar, 1, 1
+ Li3B.poscar, 0, 0
+ PrCo3.poscar, 0, 0
+ Th14Au51.poscar, 0, 0
+ HgSe.poscar, 0, 0
+ Nd3Si.poscar, 0, 0
+ Hf2Os.poscar, 0, 0
+ HoLu3.poscar, 0, 0
+ FeAg3.poscar, 0, 0
+ CrBi.poscar, 0, 0
+ Yb(SbSe2)2.poscar, 0, 0
+ Nb2AlB6.poscar, 0, 1
+ DyN.poscar, 0, 0
+ Tb4Co.poscar, 0, 0
+ La(AsPd)2.poscar, 0, 1
+ LaAu.poscar, 0, 0
+ CsGaTe2.poscar, 0, 0
+ Er5Ru2.poscar, 0, 0
+ Sc2IrOs.poscar, 0, 0
+ Na3Tl.poscar, 0, 0
+LaIrSi3.poscar, 1, 1
+AsNb3.poscar, 1, 0
+TiRhSi.poscar, 1, 1
+ Ti5O7.poscar, 0, 0
+ CePbAu2.poscar, 0, 0
+ Mg(NiO2)2.poscar, 0, 0
+ YbMg3.poscar, 0, 0
+ LiLuIn2.poscar, 0, 0
+ Mg6CrFe.poscar, 0, 0
+ NpNi2.poscar, 0, 0
+ Cr3O7.poscar, 0, 0
+ Na6PbO5.poscar, 0, 0
+ Th3Ge2.poscar, 0, 0
+ Al(NO6)3.poscar, 0, 0
+ NdMgGa.poscar, 0, 0
+ TaSe3.poscar, 0, 1
+SnS2.poscar, 1, 0
+Pd2LuSn.poscar, 1, 1
+ Nd3Tm.poscar, 0, 0
+ Gd4(SiS4)3.poscar, 0, 0
+ UBi.poscar, 0, 0
+Mn1.7.poscar, 1, 1
+ Ge4Se9.poscar, 0, 0
+ Yb3Mg.poscar, 0, 0
+ZrAs.poscar, 1, 0
+ Tm2TlZn.poscar, 0, 0
+ Ca3Sm.poscar, 0, 0
+ HoI3.poscar, 0, 0
+ CeHg3.poscar, 0, 0
+LaIrSi.poscar, 1, 1
+ Na3Rh.poscar, 0, 0
+PRh2.poscar, 1, 0
+ Nb2Ni3Ge.poscar, 0, 1
+ LuUB8.poscar, 0, 0
+ Eu2MgIn.poscar, 0, 0
+ KBrO3.poscar, 0, 1
+ SrCl2O.poscar, 0, 0
+ PaTe3.poscar, 0, 0
+ CdHg2.poscar, 0, 0
+ SnF2.poscar, 0, 0
+NbIrTe4.poscar, 1, 1
+ Re2C.poscar, 0, 0
+ Er12In3Fe2.poscar, 0, 0
+Tm2Fe3Si5.poscar, 1, 0
+ UPt2.poscar, 0, 0
+ DyErTl2.poscar, 0, 0
+ Ca(InN)2.poscar, 0, 0
+LaBa2Cu3O7.poscar, 1, 1
+ Cr(InS2)2.poscar, 0, 0
+TlNi2Se2.poscar, 1, 1
+ LiGe.poscar, 0, 0
+ MnI2.poscar, 0, 0
+ SmTm3.poscar, 0, 0
+ Sc5As3.poscar, 0, 0
+ ZnPd3.poscar, 0, 0
+ ZrAl.poscar, 0, 0
+ IrO2.poscar, 0, 0
+ TaPd2.poscar, 0, 0
+Ni2NbAl.poscar, 1, 1
+ BaAg5.poscar, 0, 0
+ MgMn3O7.poscar, 0, 0
+ YbEr3.poscar, 0, 0
+ NaCl.poscar, 0, 0
+ PuSn2.poscar, 0, 0
+ InO.poscar, 0, 0
+ RbCe3.poscar, 0, 0
+ Sr2LiHg.poscar, 0, 0
+ VTc.poscar, 0, 0
+ Sc2AlCd.poscar, 0, 0
+KCuF3.poscar, 1, 0
+ InS.poscar, 0, 0
+ NiBrO.poscar, 0, 0
+ V3C2.poscar, 0, 0
+ CuCl.poscar, 0, 0
+ CeMg.poscar, 0, 0
+Al.poscar, 1, 1
+C2Lu.poscar, 1, 1
+ LuTc2.poscar, 0, 1
+ Ce3Eu.poscar, 0, 0
+ Cs3Pt.poscar, 0, 0
+ SnH4.poscar, 0, 1
+ PaAlFe2.poscar, 0, 0
+ TbNi.poscar, 0, 0
+ Te16Rh11.poscar, 0, 0
+LiCu2P2.poscar, 1, 0
+ PtN2.poscar, 0, 0
+ La14Zn45Si.poscar, 0, 0
+TaB2.poscar, 1, 0
+ PtPb2.poscar, 0, 1
+ Nd2Ge3.poscar, 0, 0
+ In3Cu.poscar, 0, 0
+ TbAg2.poscar, 0, 0
+ AgPd3Se.poscar, 0, 0
+ BIr.poscar, 0, 0
+ YB4Rh7.poscar, 0, 1
+ Tl2Pd.poscar, 0, 1
+ Pr3Y.poscar, 0, 0
+ Zr6Fe23.poscar, 0, 0
+ Pr7Ir3.poscar, 0, 0
+Ga2La.poscar, 1, 0
+ NdRe2.poscar, 0, 0
+GdBa2Cu4O8.poscar, 1, 1
+Hg3Mg.poscar, 1, 0
+ Sr3In.poscar, 0, 0
+ Sn2O.poscar, 0, 0
+ Ho(WO3)2.poscar, 0, 0
+ C3N2.poscar, 0, 0
+ Eu5Nb4O15.poscar, 0, 0
+ La3Dy.poscar, 0, 0
+ TbNi5.poscar, 0, 0
+ Ba3N2.poscar, 0, 0
+ Ba3Yb.poscar, 0, 0
+ Ho2IrRu.poscar, 0, 0
+ Ta3Sn.poscar, 0, 1
+ Er2AgAu.poscar, 0, 0
+ La2Re3B7.poscar, 0, 1
+ Ni3H.poscar, 0, 0
+ Th3V.poscar, 0, 0
+ PrCdGa.poscar, 0, 0
+ Sm6Fe23.poscar, 0, 0
+ Li2AsAu.poscar, 0, 0
+ MnGeP2.poscar, 0, 0
+ RuN2.poscar, 0, 0
+ ThNi.poscar, 0, 0
+ LaF3.poscar, 0, 0
+BaSn5.poscar, 1, 0
+ PrTe.poscar, 0, 0
+NdMo6S8.poscar, 1, 1
+ MgZrPt2.poscar, 0, 0
+ Ga2Ru.poscar, 0, 0
+LaRu2Si2.poscar, 1, 1
+ PuSb3.poscar, 0, 0
+ CuGe3.poscar, 0, 0
+Bi2CaSr2Cu2O8.poscar, 1, 1
+ K3Ag.poscar, 0, 0
+ Al4Ni15Sb.poscar, 0, 0
+ Dy5Sb3.poscar, 0, 0
+ BaO.poscar, 0, 0
+ U(Zn10Co)2.poscar, 0, 0
+ LuNi5.poscar, 0, 0
+LaPd2P2.poscar, 1, 1
+ Th3Mo.poscar, 0, 0
+YbPd2Sn.poscar, 1, 1
+ Al3Ir.poscar, 0, 0
+ Na5Sn2.poscar, 0, 0
+ Th(MnAl2)4.poscar, 0, 0
+ La2(Zn2Ge)3.poscar, 0, 0
+ CuRh.poscar, 0, 0
+ K3Ho.poscar, 0, 0
+ DyO3.poscar, 0, 0
+ Sn3Sb.poscar, 0, 0
+ RbBa3.poscar, 0, 0
+ CdAgAu2.poscar, 0, 0
+ Pr(BIr)4.poscar, 0, 0
+Cr3Ir.poscar, 1, 0
+ Tl2F3.poscar, 0, 0
+ Tl2Au.poscar, 0, 1
+ ZrCoNi.poscar, 0, 0
+ Fe3CuAs2.poscar, 0, 1
+ Mg2Ge.poscar, 0, 0
+ BaTe3.poscar, 0, 1
+Ge5La.poscar, 1, 0
+ NaLa3.poscar, 0, 0
+ MgBe3.poscar, 0, 0
+ TiTe2.poscar, 0, 0
+ Nd2Pt2O7.poscar, 0, 0
+ Yb2Cu2O5.poscar, 0, 0
+InNb3.poscar, 1, 0
+ Ce3NF6.poscar, 0, 0
+ Cr5Te6.poscar, 0, 0
+SrIr2.poscar, 1, 1
+ GeS2.poscar, 0, 0
+ Dy2O3.poscar, 0, 0
+W2C.poscar, 1, 1
+ Ce3Zn.poscar, 0, 0
+ CeAu3.poscar, 0, 0
+ Er6Fe23.poscar, 0, 0
+ DyOs3.poscar, 0, 0
+ TiV15O24.poscar, 0, 0
+W3N4.poscar, 1, 0
+ Ce4Re6O19.poscar, 0, 0
+ LiTb3.poscar, 0, 0
+ LaSi5.poscar, 0, 0
+ NbCl4.poscar, 0, 0
+ Al5(CuO4)3.poscar, 0, 1
+ Tm2Ga3Fe14.poscar, 0, 0
+ VIr.poscar, 0, 0
+ K3Sc.poscar, 0, 0
+ Ba4In6O13.poscar, 0, 0
+ Al5Mo.poscar, 0, 0
+ NdFe5.poscar, 0, 0
+Nb3.poscar, 1, 1
+ Sc13Zn58.poscar, 0, 0
+ CsAuC2.poscar, 0, 0
+ Rb5Hg19.poscar, 0, 0
+ Ti2GaRe.poscar, 0, 0
+ NpGa2.poscar, 0, 0
+PtSn.poscar, 1, 0
+TlSrLaCuO5.poscar, 1, 1
+ Dy3CrS6.poscar, 0, 0
+Zr.poscar, 1, 1
+P25.poscar, 1, 1
+ Li3Zr.poscar, 0, 0
+ P4N7.poscar, 0, 0
+ HoN.poscar, 0, 0
+ TiMoC2.poscar, 0, 1
+ Pd(PbBr3)2.poscar, 0, 0
+ Cr2Te3.poscar, 0, 0
+Ba3Ir4Ge16.poscar, 1, 1
+ Tl2Br3.poscar, 0, 0
+EuBa2Cu3O6.5.poscar, 1, 1
+ As2Se3.poscar, 0, 0
+ EuH3Pd.poscar, 0, 0
+ NpSb.poscar, 0, 0
+ SeS.poscar, 0, 1
+ Ta2Te2O9.poscar, 0, 0
+ Ba2Pb.poscar, 0, 0
+ NpGe3.poscar, 0, 0
+ AlZnIr2.poscar, 0, 0
+ Gd10S19.poscar, 0, 0
+Pr2.poscar, 1, 1
+ Y14Ag51.poscar, 0, 0
+ RbEu3.poscar, 0, 0
+Al2La.poscar, 1, 1
+ YPPt.poscar, 0, 0
+ Sc2Ge2O7.poscar, 0, 0
+Ir2Sr.poscar, 1, 1
+ ErTlZn.poscar, 0, 0
+BaTiO3.poscar, 1, 0
+TbFeAsO.poscar, 1, 1
+ Nb2C.poscar, 0, 0
+ NdTl.poscar, 0, 0
+ Ir3F.poscar, 0, 0
+ ScAs.poscar, 0, 0
+ Dy14(PbS8)3.poscar, 0, 0
+ RbSe.poscar, 0, 0
+ BaEu3.poscar, 0, 0
+TaRhP.poscar, 1, 1
+Ta5GeB2.poscar, 1, 1
+ YbN.poscar, 0, 0
+AlCu.poscar, 1, 1
+ K5La2.poscar, 0, 0
+NbC.poscar, 1, 1
+ Mn3N2.poscar, 0, 0
+ Gd2InNi2.poscar, 0, 0
+ Ho6Se11.poscar, 0, 0
+ SbCl3.poscar, 0, 0
+ Yb2Ge3.poscar, 0, 0
+ V3Si.poscar, 0, 1
+ USn3.poscar, 0, 0
+ TbCu4Pd.poscar, 0, 0
+H4Si.poscar, 1, 1
+ Li3Dy.poscar, 0, 0
+ U2Te5.poscar, 0, 0
+ Nb2P.poscar, 0, 0
+Hg2Na.poscar, 1, 0
+ PrP5O14.poscar, 0, 0
+Bi14Rh3.poscar, 1, 1
+V.poscar, 1, 1
+ LuBiPt.poscar, 0, 1
+ Nb5Ni.poscar, 0, 0
+ Pr5P12Ru19.poscar, 0, 1
+ YTi.poscar, 0, 0
+ Mg14FeB.poscar, 0, 0
+ YBr2.poscar, 0, 0
+ Li3C.poscar, 0, 0
+B.poscar, 1, 1
+ LaSb2.poscar, 0, 1
+ LaCu2.poscar, 0, 0
+ Ta2Ni3Se8.poscar, 0, 1
+ ZrNp3.poscar, 0, 0
+ MgAl.poscar, 0, 1
+ YbAsPt.poscar, 0, 0
+Ru2Zr.poscar, 1, 0
+ MnTe.poscar, 0, 0
+ SrGe3.poscar, 0, 1
+ PuNi2.poscar, 0, 0
+Nb2PdS5.poscar, 1, 0
+ Sr3N2.poscar, 0, 0
+Bi2Rh.poscar, 1, 0
+ Yb(ZnSi)2.poscar, 0, 0
+ YH3.poscar, 0, 0
+ AlPPd4.poscar, 0, 1
+ K2Ag.poscar, 0, 0
+ Dy3Tm.poscar, 0, 0
+ NdGe3.poscar, 0, 0
+ Lu6Zn23.poscar, 0, 0
+ Sr2LiIn.poscar, 0, 0
+ Mo4P3.poscar, 0, 1
+ BaYb3.poscar, 0, 0
+ Al12W.poscar, 0, 0
+ TmSb.poscar, 0, 0
+ H3BrO.poscar, 0, 0
+SnSe2.poscar, 1, 0
+ TaP.poscar, 0, 0
+ Be(H2N)2.poscar, 0, 0
+ Ce3Dy.poscar, 0, 0
+ Sr13Hg58.poscar, 0, 0
+ CoF3.poscar, 0, 0
+ As2O3.poscar, 0, 0
+Th3Rh4Sn13.poscar, 1, 1
+ Pu3Si2.poscar, 0, 0
+ NaNp3.poscar, 0, 0
+ Tl2O.poscar, 0, 0
+ TbGe5.poscar, 0, 0
+ GdTh3.poscar, 0, 0
+ BrF3.poscar, 0, 0
+Y2O3.poscar, 1, 0
+C8Rb.poscar, 1, 1
+ Rb3TmF6.poscar, 0, 0
+ LuUO3.poscar, 0, 0
+ LiB11.poscar, 0, 0
+ NaB3H8.poscar, 0, 0
+Hf3N4.poscar, 1, 0
+NdCoAsO.poscar, 1, 1
+ CuBi.poscar, 0, 1
+ Pr3Ti.poscar, 0, 0
+ Yb3Os.poscar, 0, 0
+ In3Rh.poscar, 0, 1
+CeCoIn5.poscar, 1, 1
+ Nd2MgSi2.poscar, 0, 0
+ LaI3.poscar, 0, 0
+ UI4.poscar, 0, 0
+ ScGe.poscar, 0, 0
+ Ho3ScO6.poscar, 0, 0
+ KZnN.poscar, 0, 0
+ Li3Ni.poscar, 0, 0
+ Np3S5.poscar, 0, 0
+ LiEu2Hg.poscar, 0, 0
+ LaPt5.poscar, 0, 0
+ MnAl6.poscar, 0, 0
+ Er6MnBi2.poscar, 0, 0
+La3Ni4O2P4.poscar, 1, 1
+ZrOsSi.poscar, 1, 1
+ CeC2.poscar, 0, 0
+ HfTi3.poscar, 0, 1
+ CsLaS2.poscar, 0, 0
+ HN.poscar, 0, 0
+AlN.poscar, 1, 0
+ YCdAu2.poscar, 0, 0
+ Nd4Al.poscar, 0, 0
+ Li9Al4.poscar, 0, 0
+ Lu4Rh.poscar, 0, 0
+ Ti3H3Au.poscar, 0, 0
+ Sc11Ge10.poscar, 0, 0
+ RhF3.poscar, 0, 0
+PtZr.poscar, 1, 0
+IrU.poscar, 1, 1
+ ScHg3.poscar, 0, 0
+ RbHg11.poscar, 0, 0
+ Sm2F.poscar, 0, 0
+ Fe3Se.poscar, 0, 0
+ La5TlSe8.poscar, 0, 0
+ GePd.poscar, 0, 0
+ Mn5Si2.poscar, 0, 0
+ SeF4.poscar, 0, 0
+ Ce3AlN.poscar, 0, 0
+ K3Ba.poscar, 0, 0
+ MnCd3Te4.poscar, 0, 0
+Er2Ti2O7.poscar, 1, 1
+ Mn7Fe3.poscar, 0, 0
+ Mg6CrCu.poscar, 0, 0
+ Ti5Ga4.poscar, 0, 0
+ HfS2.poscar, 0, 0
+RuB2.poscar, 1, 1
+ SrO6.poscar, 0, 0
+GeSi.poscar, 1, 0
+ ZnP2.poscar, 0, 0
+ Li3Np.poscar, 0, 0
+ CsC15.poscar, 0, 0
+ Cs2O2.poscar, 0, 0
+ Zn3P.poscar, 0, 0
+ ZnAu.poscar, 0, 0
+TlSb.poscar, 1, 0
+ Ag2HgI4.poscar, 0, 0
+ NdHSe.poscar, 0, 0
+ ErCu.poscar, 0, 0
+ TaI4.poscar, 0, 0
+BaFe2Se3.poscar, 1, 0
+ Mo3C2.poscar, 0, 1
+ Tl3H.poscar, 0, 0
+ TiCrTc2.poscar, 0, 0
+ Na2FeO3.poscar, 0, 0
+ As(BrF2)3.poscar, 0, 0
+ YbH2.poscar, 0, 0
+MoSe2.poscar, 1, 0
+ Ta2Sn3.poscar, 0, 0
+ YAsO4.poscar, 0, 0
+ Ga2PdI8.poscar, 0, 0
+ Mg2As.poscar, 0, 0
+ KP.poscar, 0, 0
+ Gd3Ag.poscar, 0, 0
+ YZnPd2.poscar, 0, 0
+CuInO2.poscar, 1, 1
+ LiEuS2.poscar, 0, 0
+ ScCu3.poscar, 0, 0
+ AgAu.poscar, 0, 0
+ BaCu13.poscar, 0, 0
+ In7Pd3.poscar, 0, 0
+ HgO.poscar, 0, 0
+La2Ni2.poscar, 1, 0
+ SrAs3.poscar, 0, 0
+ CeAg2.poscar, 0, 1
+Sr3SnO.poscar, 1, 0
+ MoF3.poscar, 0, 0
+ Si3Ru2.poscar, 0, 0
+ CePd.poscar, 0, 0
+ HoGaAu.poscar, 0, 0
+ SmMgAg2.poscar, 0, 0
+ PrP5.poscar, 0, 0
+ Bi2Se3.poscar, 0, 0
+ CeSmB12.poscar, 0, 1
+ Sn(PbO2)2.poscar, 0, 0
+ Co5B16.poscar, 0, 0
+ Ru3W.poscar, 0, 0
+ Y2PdPt.poscar, 0, 0
+ Hf5Sc.poscar, 0, 0
+ Dy9Al5S21.poscar, 0, 0
+ TaFeO4.poscar, 0, 0
+ YP5.poscar, 0, 0
+ Tl3PdBr5.poscar, 0, 0
+ Ho5Ru2.poscar, 0, 0
+ Nb3N.poscar, 0, 0
+YbPd2Ge2.poscar, 1, 0
+ UCr3.poscar, 0, 0
+ Bi6Cl7.poscar, 0, 0
+ YMg.poscar, 0, 0
+AsFeS.poscar, 1, 0
+ Th(SiPd)2.poscar, 0, 1
+Bi2Te3.poscar, 1, 0
+ Hg3As.poscar, 0, 0
+ Er3Rh.poscar, 0, 0
+ Be17Nb2.poscar, 0, 1
+ Be2ZnPt.poscar, 0, 0
+ RhCl2.poscar, 0, 0
+ Gd2IrAu.poscar, 0, 0
+ThOs2Ge2.poscar, 1, 1
+ V3Os.poscar, 0, 0
+ KPt2S3.poscar, 0, 0
+ NdCu.poscar, 0, 0
+ Sm2Te3.poscar, 0, 0
+ HfGaAu2.poscar, 0, 0
+ Zn3Hg.poscar, 0, 0
+ ScSn2.poscar, 0, 0
+ Na15Pb4.poscar, 0, 0
+Cu.poscar, 1, 1
+ Sc4Co.poscar, 0, 0
+ Y4ZrSi3.poscar, 0, 0
+ NdGa2Co3.poscar, 0, 0
+ Cr3Ru.poscar, 0, 1
+ DyCl3.poscar, 0, 0
+ HPd3.poscar, 0, 0
+ RbAl.poscar, 0, 0
+ C11N4.poscar, 0, 0
+ ScBPd3.poscar, 0, 0
+ TiMoP2.poscar, 0, 0
+ V5O14.poscar, 0, 0
+ Sm2Pt2O7.poscar, 0, 0
+ Ta2C.poscar, 0, 0
+Se11.poscar, 1, 1
+ CaYCd2.poscar, 0, 0
+ NdSmTl2.poscar, 0, 0
+ FeRh.poscar, 0, 0
+ GePt3.poscar, 0, 0
+ Dy20In40Rh19.poscar, 0, 0
+ Ce3Ti.poscar, 0, 0
+ Zn5B3Ir7.poscar, 0, 0
+ YAsPt.poscar, 0, 0
+SiCl4.poscar, 1, 0
+ DyTlO2.poscar, 0, 0
+ TmNiO3.poscar, 0, 0
+ TmRe2.poscar, 0, 0
+ ZrOsO3.poscar, 0, 0
+ Na3SbBr6.poscar, 0, 0
+ Al8Mo3.poscar, 0, 0
+ LaPrNi10.poscar, 0, 0
+ Na(LiSi2)3.poscar, 0, 0
+ CeEr.poscar, 0, 0
+ BaCaTl2.poscar, 0, 0
+ LuCl3.poscar, 0, 0
+ Li3Er.poscar, 0, 0
+ Pu2Co17.poscar, 0, 0
+ CrSb.poscar, 0, 0
+ HoNi2.poscar, 0, 0
+ DyAu.poscar, 0, 0
+ Mn(CuSe)2.poscar, 0, 0
+ ZrRu3.poscar, 0, 0
+ BrO3.poscar, 0, 0
+ Fe5C2.poscar, 0, 0
+ La2NiPt.poscar, 0, 0
+B6Nd.poscar, 1, 1
+ LuAu2.poscar, 0, 0
+ Hf7Cu10.poscar, 0, 0
+Mo3Se4.poscar, 1, 1
+ Ti2Rh.poscar, 0, 0
+ Gd2AgRu.poscar, 0, 0
+ Eu2TlIn.poscar, 0, 0
+ CrSn2.poscar, 0, 0
+RhGe.poscar, 1, 1
+ CuN3.poscar, 0, 0
+ K5Sb4.poscar, 0, 0
+ Sb3Pd8.poscar, 0, 0
+AsPd2.poscar, 1, 0
+ U3C.poscar, 0, 0
+LaIr2Ge2.poscar, 1, 1
+ Ca14GaAs11.poscar, 0, 0
+ K3Rh.poscar, 0, 0
+ Ga3Te.poscar, 0, 0
+ Yb3Hf.poscar, 0, 0
+ Ta4(Pd3Rh)3.poscar, 0, 0
+ Tl2S7N8.poscar, 0, 0
+ OsPb3.poscar, 0, 0
+La3Sn.poscar, 1, 0
+ Li2IBr.poscar, 0, 0
+ ThBr4.poscar, 0, 0
+ ZrTi3.poscar, 0, 0
+ Na2LiAu3.poscar, 0, 0
+ Tb5Ru2.poscar, 0, 0
+LuOs3B2.poscar, 1, 1
+ Rb3Yb.poscar, 0, 0
+ Dy3Si4.poscar, 0, 0
+ CaTe.poscar, 0, 0
+ Zr7Pt10.poscar, 0, 0
+ La3(GaNi)2.poscar, 0, 0
+ MgMn.poscar, 0, 0
+ InTc3.poscar, 0, 0
+ Tl3Os.poscar, 0, 0
+ Zr3Sn.poscar, 0, 0
+SnTe.poscar, 1, 0
+ PbIBr.poscar, 0, 0
+ Nd2Hf2O7.poscar, 0, 0
+ NaMo6Br13.poscar, 0, 0
+ U2CS.poscar, 0, 0
+ Tb3SnC.poscar, 0, 0
+ Be2IrPt.poscar, 0, 0
+ Cr3Fe.poscar, 0, 0
+ PuSi.poscar, 0, 0
+Nb47.poscar, 1, 1
+ Tl4Bi.poscar, 0, 1
+ As3W2.poscar, 0, 0
+ SrCu.poscar, 0, 0
+TaSe3.poscar, 1, 1
+ MgTe2.poscar, 0, 0
+ LaAg.poscar, 0, 1
+ AlSi3O8.poscar, 0, 0
+ CaTi2O4.poscar, 0, 1
+ PuF4.poscar, 0, 0
+ Dy3Al.poscar, 0, 0
+ PbSe2.poscar, 0, 0
+ Fe3N.poscar, 0, 0
+ LuCoC.poscar, 0, 0
+ HfP2.poscar, 0, 0
+ Zr2Al.poscar, 0, 0
+ Si2Ir.poscar, 0, 0
+ Ta6S.poscar, 0, 0
+ SbF4.poscar, 0, 0
+ Cr3As.poscar, 0, 0
+ Pr6Fe13Ag.poscar, 0, 0
+ PrTh.poscar, 0, 0
+ BS2.poscar, 0, 0
+ Pa3Tl.poscar, 0, 0
+Li2S.poscar, 1, 0
+ UCu5.poscar, 0, 0
+Tm5Ir4Si10.poscar, 1, 0
+ Pr2Si2O7.poscar, 0, 0
+ UTaC2.poscar, 0, 0
+ Y4Pt.poscar, 0, 1
+ Zn(Cu2O3)2.poscar, 0, 0
+ Tm5Pb3.poscar, 0, 0
+ Ta3Ge.poscar, 0, 1
+PtTe.poscar, 1, 0
+ PuSe.poscar, 0, 0
+ NdAs.poscar, 0, 0
+ Bi4Se3.poscar, 0, 0
+ NpNi5.poscar, 0, 0
+InTaS2.poscar, 1, 0
+ Ta3(Se4Br3)2.poscar, 0, 0
+ Ta5P3.poscar, 0, 0
+ NaAg2Sn.poscar, 0, 0
+ Hf9FeRe4.poscar, 0, 0
+Sb.poscar, 1, 1
+ Y2TlZn.poscar, 0, 0
+ Bi3Sb.poscar, 0, 1
+ GeBi3.poscar, 0, 0
+Pb.poscar, 1, 0
+ CrCl3.poscar, 0, 0
+ CrPtO2.poscar, 0, 0
+ VRh.poscar, 0, 0
+ Tc(NCl3)2.poscar, 0, 0
+SnTa3.poscar, 1, 1
+ AsPb3.poscar, 0, 0
+ Li3Ga14.poscar, 0, 0
+Ba8Si46.poscar, 1, 0
+ ThCo9Si2.poscar, 0, 0
+YbBa2Cu4O8.poscar, 1, 1
+As2CdSn.poscar, 1, 1
+ Be2PdPt.poscar, 0, 0
+ GaSe.poscar, 0, 0
+ Ce5(MgGe)8.poscar, 0, 0
+CoFe.poscar, 1, 1
+ Np3Se4.poscar, 0, 0
+Tl3Y.poscar, 1, 0
+LaPd2Ge2.poscar, 1, 1
+ Mn2CrCo.poscar, 0, 0
+ K2Re.poscar, 0, 0
+ Eu2N.poscar, 0, 0
+ Sm5Mg41.poscar, 0, 0
+ La4Ge7.poscar, 0, 0
+ Cs3P7.poscar, 0, 0
+ TmMgZn2.poscar, 0, 0
+Mo2N.poscar, 1, 0
+ NpTe3.poscar, 0, 0
+ YbHg2.poscar, 0, 0
+ RuN.poscar, 0, 0
+TiNCl.poscar, 1, 0
+Ir3Te8.poscar, 1, 0
+ AlBMo.poscar, 0, 0
+ CePb3.poscar, 0, 1
+ Zr4Ni2N.poscar, 0, 1
+ Er5Si3.poscar, 0, 0
+ RbVN2.poscar, 0, 0
+ YbEuTl2.poscar, 0, 0
+ K2S5.poscar, 0, 0
+ Pr3Rh2.poscar, 0, 0
+ Yb3Lu.poscar, 0, 0
+ AlCuAu2.poscar, 0, 0
+ Pr4MgIr.poscar, 0, 0
+ Co2S3.poscar, 0, 0
+ Th3W.poscar, 0, 0
+ PbS2.poscar, 0, 0
+WO3.poscar, 1, 0
+ NpFe3.poscar, 0, 0
+ Ti2CuTc.poscar, 0, 0
+ Ba3(TaS4)2.poscar, 0, 0
+ Ho2AgRu.poscar, 0, 0
+ LiAlO3.poscar, 0, 1
+ Ti3Ir.poscar, 0, 1
+Ce2RhIn8.poscar, 1, 1
+ Tl3B.poscar, 0, 0
+ ThH3.poscar, 0, 0
+CaGe3.poscar, 1, 0
+ CaZn3.poscar, 0, 0
+ ZnO2.poscar, 0, 0
+SSAs.poscar, 1, 0
+ PuRu.poscar, 0, 0
+ TbPr3.poscar, 0, 0
+ Sb2(I3N)3.poscar, 0, 0
+ SrPt5.poscar, 0, 0
+ AlB2.poscar, 0, 1
+HfMo2.poscar, 1, 0
+ Sc3Nb.poscar, 0, 0
+ AuSe.poscar, 0, 0
+ LuPd3.poscar, 0, 0
+ NiPt3.poscar, 0, 0
+ AlSiTe3.poscar, 0, 0
+ CaY.poscar, 0, 0
+ LiMn.poscar, 0, 0
+ Fe2Ni9N8.poscar, 0, 0
+Pt3U.poscar, 1, 0
+ Y2PdRu.poscar, 0, 0
+ ErLuHg2.poscar, 0, 0
+ BaBe2Te.poscar, 0, 0
+CaPtAs.poscar, 1, 1
+ ZnN6.poscar, 0, 1
+ CoSi2.poscar, 0, 1
+ RbI.poscar, 0, 1
+ TlInF6.poscar, 0, 0
+ VI3.poscar, 0, 0
+ Na3ScN2.poscar, 0, 0
+ PuSn3.poscar, 0, 0
+ Nd6Fe13Ag.poscar, 0, 0
+ ScRu3.poscar, 0, 0
+ Ho3Sn7.poscar, 0, 0
+ La4Al.poscar, 0, 0
+ CeEu3.poscar, 0, 0
+ OsS2.poscar, 0, 0
+ CoRh.poscar, 0, 1
+ Si5Rh4.poscar, 0, 0
+EuP.poscar, 1, 0
+ Pr(Al2Cr)4.poscar, 0, 0
+ Gd3I.poscar, 0, 0
+ Hf9Re4Ni.poscar, 0, 0
+ BaLiF3.poscar, 0, 0
+ Ce2Zn4Ru.poscar, 0, 0
+ NpSi3.poscar, 0, 0
+ K3AlO3.poscar, 0, 0
+ CaMgPd.poscar, 0, 0
+ Cr7Se10.poscar, 0, 0
+ BiSe2.poscar, 0, 1
+CuRh2S4.poscar, 1, 1
+ Ti5O9.poscar, 0, 0
+ LaScTl2.poscar, 0, 0
+ Dy3NiPd2.poscar, 0, 0
+ TbPu.poscar, 0, 0
+ Sc2O3.poscar, 0, 0
+ ScCl.poscar, 0, 0
+RbOs2O6.poscar, 1, 1
+ Ta2Ni.poscar, 0, 0
+ KSe.poscar, 0, 0
+ Sm5Co19.poscar, 0, 0
+Cu2Sb.poscar, 1, 0
+LaB6.poscar, 1, 0
+MoRh.poscar, 1, 0
+ Cr10Sb3Te7.poscar, 0, 0
+ DyMg3.poscar, 0, 0
+ Sm5Ir2.poscar, 0, 0
+Cs.poscar, 1, 1
+ScPd2Sn.poscar, 1, 1
+ BaInO3.poscar, 0, 1
+ Ta6O.poscar, 0, 0
+Nb3S4.poscar, 1, 1
+ GeSb3.poscar, 0, 0
+Tl2Ba2Ca2Cu3O10.poscar, 1, 1
+ Ti4H3.poscar, 0, 0
+ YbVO4.poscar, 0, 0
+ RuAu3.poscar, 0, 0
+ Eu5Bi3.poscar, 0, 0
+ CuF2.poscar, 0, 0
+ CF4.poscar, 0, 0
+ SnC.poscar, 0, 0
+ Nd(BOs)2.poscar, 0, 0
+UPd2Al3.poscar, 1, 0
+ LaNi5H6.poscar, 0, 0
+ CaPt2.poscar, 0, 0
+ LaCu13.poscar, 0, 0
+ Ca5Hg3.poscar, 0, 0
+ TbCuPb.poscar, 0, 0
+LiFeP.poscar, 1, 0
+Ca3Rh4Ge13.poscar, 1, 1
+ NaLa.poscar, 0, 0
+ YCl.poscar, 0, 1
+Lu5Rh4Ge10.poscar, 1, 1
+ Eu3Tc.poscar, 0, 0
+LaCo2P2.poscar, 1, 1
